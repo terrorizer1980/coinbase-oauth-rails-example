@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-OmniauthCoinbaseExample::Application.config.secret_key_base = '593c1c53b465930f572df18ffde2815f83ba3a9fb6c43ce462410e54569136498f1e41964bbec4c4a4d9a4f3fc781f891bb60325a9f7e0281df4442c9bb8b82d'
+OmniauthCoinbaseExample::Application.config.secret_key_base = 'c880747ac866a450593e3b4a521ee958fd89b76befbbc0da8e614a929284ac4bac3560c34f8af03541481a4afbe8c46cac17d89f9c5b858de87672348e02e189'
