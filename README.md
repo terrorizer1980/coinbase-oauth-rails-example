@@ -1,4 +1,4 @@
-# omniauth-coinbase-example
+# coinbase-oauth-rails-example
 
 An example rails app that demonstrates accessing user's coinbase accounts using the devise, omniauth-coinbase, and coinbase gems.
 

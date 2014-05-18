@@ -1,4 +1,4 @@
-OmniauthCoinbaseExample::Application.routes.draw do
+CoinbaseOauthRailsExample::Application.routes.draw do
 
   devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }
 

@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-OmniauthCoinbaseExample::Application.load_tasks
+CoinbaseOauthRailsExample::Application.load_tasks
