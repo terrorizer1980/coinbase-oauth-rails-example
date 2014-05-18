@@ -34,10 +34,11 @@ end
 
 gem 'figaro'
 
-gem "coinbase" #, :path => "../coinbase-ruby"
+gem 'coinbase', '~> 2.0'
 
-gem "omniauth-coinbase" #, :path => "../omniauth-coinbase"
-gem "devise"
+gem 'omniauth-coinbase'
+
+gem 'devise'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
