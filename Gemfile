@@ -34,7 +34,7 @@ end
 
 gem 'figaro'
 
-gem 'coinbase', '~> 2.0'
+gem 'coinbase', '~> 4.2', '>= 4.2.3'
 
 gem 'omniauth-coinbase'
 
