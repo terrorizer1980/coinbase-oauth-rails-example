@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.2'
+gem 'rails', '7.1.5.2'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
@@ -32,7 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'figaro'
+gem 'figaro', '>= 1.0.0'
 
 gem 'coinbase', '~> 2.0'
 
@@ -52,5 +52,5 @@ gem 'devise'
 # Use debugger
 gem 'debugger', group: [:development, :test]
 
-gem 'rename'
+gem 'rename', '>= 1.0.3'
 
